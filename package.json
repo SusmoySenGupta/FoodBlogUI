@@ -1,0 +1,22 @@
+{
+  "name": "foodblog",
+  "version": "1.0.0",
+  "description": "A simple html page designing with tailwindCSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SusmoySenGupta/Learn-TailwindCSS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SusmoySenGupta/Learn-TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/SusmoySenGupta/Learn-TailwindCSS#readme",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}
