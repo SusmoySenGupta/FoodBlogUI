@@ -1,15 +1,16 @@
 {
-  "name": "foodblog",
+  "name": "FoodBlog",
   "version": "1.0.0",
-  "description": "A simple html page designing with tailwindCSS.",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-css": "node ./node_modules/tailwindcss build src/styles.css -o public/styles.css"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SusmoySenGupta/Learn-TailwindCSS.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/SusmoySenGupta/Learn-TailwindCSS#readme",
   "dependencies": {
+    "node-sass": "^4.14.1",
     "tailwindcss": "^1.9.6"
   }
 }
