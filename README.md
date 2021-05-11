@@ -6,7 +6,7 @@
 UI design with tailwindcss.
 
 ### Demo
-`Link:` <a href="hhttps://foodblog-tailwindcss.herokuapp.com/" target="_blank">movie-app</a>  
+`Link:` <a href="https://foodblog-tailwindcss.herokuapp.com/" target="_blank">food-blog</a>  
 
 ## Screenshots:
 
